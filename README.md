@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushaad</h1>
-<!-- <h3 align="center">A passionate person always wanting to learn new thing .</h3> -->
+<h3 align="center">A passionate person always wanting to learn new thing .</h3>
 
-<p align="center",display="inline"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaad2911" alt="rushaad2911" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaad2911" alt="rushaad2911" /></a> </p>
 
 - 🌱 I’m currently learning **React, ReactNative**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://dev.to/rushaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rushaad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rushaad buxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushaad buxy" height="30" width="40" /></a>
+<a href="https://kaggle.com/rushaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rushaad" height="30" width="40" /></a>
 <a href="https://instagram.com/rushaad_buxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushaad_buxy" height="30" width="40" /></a>
 <a href="https://dribbble.com/rushaad buxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rushaad buxy" height="30" width="40" /></a>
 </p>
