@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushaad</h1>
 <!-- <h3 align="center">A passionate person always wanting to learn new thing .</h3> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaad2911" alt="rushaad2911" /></a> </p>
+<p align="center",display="inline"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaad2911" alt="rushaad2911" /></a> </p>
 
 - 🌱 I’m currently learning **React, ReactNative**
 
