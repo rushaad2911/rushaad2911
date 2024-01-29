@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaad2911" alt="rushaad2911" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Machine Learning**
+- 🌱 I’m currently learning **Flutter and Deep Learning**
 
 - 💬 Ask me about **Django, Machine Learing, Deep Learning**
 
