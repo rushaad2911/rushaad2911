@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 💬 Ask me about **Django, Bash, Machine Learing,**
+- 💬 Ask me about **Django, Machine Learing, Deep Learning**
 
 - 📫 How to reach me **m.rushaadq@gmail.com**
 
