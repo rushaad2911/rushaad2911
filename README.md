@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rushaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rushaad" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/mohd-rushaad-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushaad buxy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-rushaad-qureshi-481810253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Rushaad Qureshi" height="30" width="40" /></a>
 <a href="https://kaggle.com/rushaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rushaad" height="30" width="40" /></a>
 <a href="https://instagram.com/Mohd.Rushaad?Qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushaad_buxy" height="30" width="40" /></a>
 <a href="https://dribbble.com/rushaad buxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rushaad buxy" height="30" width="40" /></a>
